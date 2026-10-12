@@ -1,5 +1,10 @@
 # Movie Recommender System
 
+🚀 **[Open Live Website](PASTE-YOUR-LIVE-URL-HERE)**
+
+A Movie Recommendation System built with Python,
+Pandas, Scikit-learn, and Streamlit.
+
 An English-language Streamlit app that recommends five similar movies based on story overview, genres, keywords, cast, and director. **Movie posters and all poster-related functionality have been removed.**
 
 ## Included files
