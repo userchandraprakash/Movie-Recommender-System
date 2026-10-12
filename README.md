@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-🚀 **[Open Live Website](PASTE-YOUR-LIVE-URL-HERE)**
+🚀 **[Open Live Website](https://cp-movie-recommender-system.streamlit.app/)**
 
 A Movie Recommendation System built with Python,
 Pandas, Scikit-learn, and Streamlit.
